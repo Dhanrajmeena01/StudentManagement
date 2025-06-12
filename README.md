@@ -1,1 +1,1 @@
-# StudentManagement
+# StudentManagemTo develop a simple Java application that allows users to manage student records using the console. The system supports adding, viewing, updating, searching, and deleting student information using basic object-oriented programming (OOP)ent
